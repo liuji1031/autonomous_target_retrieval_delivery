@@ -6,5 +6,5 @@ In this course I built and programmed an autonomous robot from scratch and the f
 The motion controls are based IMU, encoder and camera information. The perception relies mainly on the camera images. To determine the block location in relation to the robot, I used corner detection and homography. With the block coordinates, path planning is performed to avoid non-target blocks using A* search algorithm. 
 
 The video attached below details my journey through the course. Be sure to check it out!
-[![ENPM809T]([http://i.imgur.com/Ot5DWAW.png](https://www.dropbox.com/s/boc8dndfhbv71my/ENPM809T.jpg?dl=0))](https://www.youtube.com/watch?v=_IznfzKgS2I&t=627s "ENPM809T")
+[![ENPM809T](https://www.dropbox.com/s/boc8dndfhbv71my/ENPM809T.jpg?dl=0)](https://www.youtube.com/watch?v=_IznfzKgS2I "ENPM809T")
  
