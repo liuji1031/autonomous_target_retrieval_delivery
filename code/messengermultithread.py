@@ -5,8 +5,8 @@ import time
 
 class Messenger:
     def __init__(self, receiver=None):
-        self.password = 'bibzfsfrqttdbjhn'
-        self.yag = yagmail.SMTP('pi.bot.liu@gmail.com',self.password)
+        self.password = ''
+        self.yag = yagmail.SMTP('',self.password)
         self.receiver = receiver
         self.sender_name = 'Ji Liu'
         self.subject=''
